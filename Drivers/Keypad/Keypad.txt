@@ -1,0 +1,61 @@
+#include "Keypad.h"
+
+volatile u8 Keypad_Matrix[4][4] = {{'1','2','3','+'},
+                                   {'4','5','6','-'},
+                                   {'7','8','9','*'},
+                                   {0,'0','=','/'}
+};
+
+volatile u8 row = 1;
+u8 Pressed_Buttons[20];// = {0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,'\0'};
+volatile u8 size = 0;
+
+
+void keyPadInit(void){
+    u8 r;
+    for (r = 0; r < 4; ++r) {
+        GPIO_Write(PB0+r, HIGH);
+    }
+}
+
+void PollRows(void){
+//    u8 data;
+
+    int r = 0;
+    while(1){
+        GPIO_Write(PB0+r, LOW);
+        GPIO_Write(PB0+r, HIGH);
+        r++;
+        if(r == 4){
+            r = 0;
+        }
+
+//        data = ~(1<<(row-1)) & 0x0F;
+//        GPIO_Write_Port(PortB, data);
+//
+//        if(row == 4){
+//            row = 1;
+//        }else{
+//            row++;
+//        }
+//        Delay(10);
+    }
+}
+
+
+void GPIOC_Handler(void){
+//    u8 pressed_column = GPIO_PORTC_MIS_R>>4;
+//    u8 column = 0;
+//    while(pressed_column != 0)
+//    {
+//        column++;
+//        pressed_column >>= 1;
+//    }
+//
+//    Pressed_Buttons[size] = Keypad_Matrix[row-1][column-1];
+//    Send_Data(Pressed_Buttons[size]);
+//    size++;
+//    //sabet el code
+    GPIO_PORTC_ICR_R |= 0xFF;
+
+}

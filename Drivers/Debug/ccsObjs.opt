@@ -1,0 +1,10 @@
+"./Calculator.obj"
+"./main.obj"
+"./tm4c123gh6pm_startup_ccs.obj"
+"./Keypad/Keypad.obj"
+"./LCD/LCD.obj"
+"./MCAL/GPIO_Drivers/GPIO_CTL.obj"
+"./MCAL/GPIO_Drivers/GPIO_INT.obj"
+"./UTILS/Delay.obj"
+"../tm4c123gh6pm.cmd"
+-llibc.a
