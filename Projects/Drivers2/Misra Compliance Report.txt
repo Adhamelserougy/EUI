@@ -1,0 +1,1115 @@
+#1376-D (MISRA-C:2004 1.1/R) Ensure strict ANSI C mode (-ps) is enabled
+#1376-D (MISRA-C:2004 1.1/R) Ensure strict ANSI C mode (-ps) is enabled
+#1376-D (MISRA-C:2004 1.1/R) Ensure strict ANSI C mode (-ps) is enabled
+#1377-D (MISRA-C:2004 2.1/R) Assembly language shall be encapsulated and isolated (function "ResetISR")
+#1379-D (MISRA-C:2004 5.2/R) Identifiers in an inner scope shall not use the same name as an identifier in an outer scope, and therefore hide that identifier ("flag")
+#1379-D (MISRA-C:2004 5.2/R) Identifiers in an inner scope shall not use the same name as an identifier in an outer scope, and therefore hide that identifier ("flag")
+#1379-D (MISRA-C:2004 5.2/R) Identifiers in an inner scope shall not use the same name as an identifier in an outer scope, and therefore hide that identifier ("GPIO_Init")
+#1379-D (MISRA-C:2004 5.2/R) Identifiers in an inner scope shall not use the same name as an identifier in an outer scope, and therefore hide that identifier ("GPIO_Init")
+#1379-D (MISRA-C:2004 5.2/R) Identifiers in an inner scope shall not use the same name as an identifier in an outer scope, and therefore hide that identifier ("Timer_Init")
+#1387-D (MISRA-C:2004 8.7/R) Objects shall be defined at block scope if they are only accessed from within a single function (variable "Keypad_Matrix")
+#1391-D (MISRA-C:2004 9.2/R) Braces shall be used to indicate and match the structure in the non-zero initialization of arrays and structures
+#1391-D (MISRA-C:2004 9.2/R) Braces shall be used to indicate and match the structure in the non-zero initialization of arrays and structures
+#1391-D (MISRA-C:2004 9.2/R) Braces shall be used to indicate and match the structure in the non-zero initialization of arrays and structures
+#1391-D (MISRA-C:2004 9.2/R) Braces shall be used to indicate and match the structure in the non-zero initialization of arrays and structures
+#1391-D (MISRA-C:2004 9.2/R) Braces shall be used to indicate and match the structure in the non-zero initialization of arrays and structures
+#1391-D (MISRA-C:2004 9.2/R) Braces shall be used to indicate and match the structure in the non-zero initialization of arrays and structures
+#1391-D (MISRA-C:2004 9.2/R) Braces shall be used to indicate and match the structure in the non-zero initialization of arrays and structures
+#1391-D (MISRA-C:2004 9.2/R) Braces shall be used to indicate and match the structure in the non-zero initialization of arrays and structures
+#1392-D (MISRA-C:2004 9.3/R) In an enumerator list, the '=' construct shall not be used to explicitly initialise members other than the first, unless all items are explicitly initialised
+#1392-D (MISRA-C:2004 9.3/R) In an enumerator list, the '=' construct shall not be used to explicitly initialise members other than the first, unless all items are explicitly initialised
+#1392-D (MISRA-C:2004 9.3/R) In an enumerator list, the '=' construct shall not be used to explicitly initialise members other than the first, unless all items are explicitly initialised
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1506-D (MISRA-C:2004 13.6/R) Numeric variables being used within a for loop for iteration counting shall not be modified in the body of the loop
+#1506-D (MISRA-C:2004 13.6/R) Numeric variables being used within a for loop for iteration counting shall not be modified in the body of the loop
+#1506-D (MISRA-C:2004 13.6/R) Numeric variables being used within a for loop for iteration counting shall not be modified in the body of the loop
+#1499-D (MISRA-C:2004 8.8/R) An external object or function shall be declared in one and only one file
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+#1497-D (MISRA-C:2004 5.7/A) No identifier name should be reused ("temp")
+#1497-D (MISRA-C:2004 5.7/A) No identifier name should be reused ("i")
+#1497-D (MISRA-C:2004 5.7/A) No identifier name should be reused ("i")
+#1497-D (MISRA-C:2004 5.7/A) No identifier name should be reused ("i")
+#1496-D (MISRA-C:2004 5.6/A) No identifier in one name space should have the same spelling as an identifier in another name space, with the exception of structure member and union member names ("Match")
+#1487-D (MISRA-C:2004 12.2/R) The value of an expression shall be the same under any order of evaluation that the standard permits
+#1487-D (MISRA-C:2004 12.2/R) The value of an expression shall be the same under any order of evaluation that the standard permits
+#1487-D (MISRA-C:2004 12.2/R) The value of an expression shall be the same under any order of evaluation that the standard permits
+#1485-D (MISRA-C:2004 6.2/R) signed and unsigned char type shall be used only for the storage and use of numeric values
+#1485-D (MISRA-C:2004 6.2/R) signed and unsigned char type shall be used only for the storage and use of numeric values
+#1485-D (MISRA-C:2004 6.2/R) signed and unsigned char type shall be used only for the storage and use of numeric values
+#1485-D (MISRA-C:2004 6.2/R) signed and unsigned char type shall be used only for the storage and use of numeric values
+#1487-D (MISRA-C:2004 12.2/R) The value of an expression shall be the same under any order of evaluation that the standard permits
+#1485-D (MISRA-C:2004 6.2/R) signed and unsigned char type shall be used only for the storage and use of numeric values
+#1485-D (MISRA-C:2004 6.2/R) signed and unsigned char type shall be used only for the storage and use of numeric values
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+#1485-D (MISRA-C:2004 6.2/R) signed and unsigned char type shall be used only for the storage and use of numeric values
+#1485-D (MISRA-C:2004 6.2/R) signed and unsigned char type shall be used only for the storage and use of numeric values
+#1485-D (MISRA-C:2004 6.2/R) signed and unsigned char type shall be used only for the storage and use of numeric values
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+#1483-D (MISRA-C:2004 12.6/A) The operands of logical operators (&&, || and !) should be effectively Boolean
+#1483-D (MISRA-C:2004 12.6/A) Expressions that are effectively Boolean should not be used as operands to operators other than (&&, ||, !, =, ==, != and ?:)
+#1470-D (MISRA-C:2004 14.9/R) An if (expression) construct shall be followed by a compound statement. The else keyword shall be followed by either a compound statement, or another if statement
+#1470-D (MISRA-C:2004 14.9/R) An if (expression) construct shall be followed by a compound statement. The else keyword shall be followed by either a compound statement, or another if statement
+#1484-D (MISRA-C:2004 6.1/R) The plain char type shall be used only for the storage and use of character values
+#1470-D (MISRA-C:2004 14.9/R) An if (expression) construct shall be followed by a compound statement. The else keyword shall be followed by either a compound statement, or another if statement
+#1497-D (MISRA-C:2004 5.7/A) No identifier name should be reused ("i")
+#1468-D (MISRA-C:2004 14.7/R) A function shall have a single point of exit at the end of the function
+#1468-D (MISRA-C:2004 14.7/R) A function shall have a single point of exit at the end of the function
+#1459-D (MISRA-C:2004 12.1/A) Limited dependence should be placed on C's operator precedence rules in expressions
+#1459-D (MISRA-C:2004 12.1/A) Limited dependence should be placed on C's operator precedence rules in expressions
+#1459-D (MISRA-C:2004 12.1/A) Limited dependence should be placed on C's operator precedence rules in expressions
+#1459-D (MISRA-C:2004 12.1/A) Limited dependence should be placed on C's operator precedence rules in expressions
+#1459-D (MISRA-C:2004 12.1/A) Limited dependence should be placed on C's operator precedence rules in expressions
+#1459-D (MISRA-C:2004 12.1/A) Limited dependence should be placed on C's operator precedence rules in expressions
+#1459-D (MISRA-C:2004 12.1/A) Limited dependence should be placed on C's operator precedence rules in expressions
+#1459-D (MISRA-C:2004 12.1/A) Limited dependence should be placed on C's operator precedence rules in expressions
+#1459-D (MISRA-C:2004 12.1/A) Limited dependence should be placed on C's operator precedence rules in expressions
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "Calculator_Handler_Callback")
+#1409-D (MISRA-C:2004 12.13/A) The increment (++) and decrement (--) operators should not be mixed with other operators in an expression
+#1459-D (MISRA-C:2004 12.1/A) Limited dependence should be placed on C's operator precedence rules in expressions
+#1409-D (MISRA-C:2004 12.13/A) The increment (++) and decrement (--) operators should not be mixed with other operators in an expression
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+#1497-D (MISRA-C:2004 5.7/A) No identifier name should be reused ("i")
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+#1405-D (MISRA-C:2004 12.5/R) The operands of a logical && or || shall be primary-expressions
+#1405-D (MISRA-C:2004 12.5/R) The operands of a logical && or || shall be primary-expressions
+#1405-D (MISRA-C:2004 12.5/R) The operands of a logical && or || shall be primary-expressions
+#1405-D (MISRA-C:2004 12.5/R) The operands of a logical && or || shall be primary-expressions
+#1405-D (MISRA-C:2004 12.5/R) The operands of a logical && or || shall be primary-expressions
+#1485-D (MISRA-C:2004 6.2/R) signed and unsigned char type shall be used only for the storage and use of numeric values
+#1484-D (MISRA-C:2004 6.1/R) The plain char type shall be used only for the storage and use of character values
+#1483-D (MISRA-C:2004 12.6/A) Expressions that are effectively Boolean should not be used in operations with expressions that are not effectively Boolean
+#1485-D (MISRA-C:2004 6.2/R) signed and unsigned char type shall be used only for the storage and use of numeric values
+#1405-D (MISRA-C:2004 12.5/R) The operands of a logical && or || shall be primary-expressions
+#1404-D (MISRA-C:2004 12.4/R) The right-hand operand of a logical && or || operator shall not contain side effects
+#1505-D (MISRA-C:2004 13.5/R) The three expressions of a for statement shall be concerned only with loop control
+#1468-D (MISRA-C:2004 14.7/R) A function shall have a single point of exit at the end of the function
+#1496-D (MISRA-C:2004 5.6/A) No identifier in one name space should have the same spelling as an identifier in another name space, with the exception of structure member and union member names ("Pin")
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1483-D (MISRA-C:2004 12.6/A) Expressions that are effectively Boolean should not be used in operations with expressions that are not effectively Boolean
+#1497-D (MISRA-C:2004 5.7/A) No identifier name should be reused ("data")
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1409-D (MISRA-C:2004 12.13/A) The increment (++) and decrement (--) operators should not be mixed with other operators in an expression
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1499-D (MISRA-C:2004 8.8/R) An external object or function shall be declared in one and only one file
+#1499-D (MISRA-C:2004 8.8/R) An external object or function shall be declared in one and only one file
+#1496-D (MISRA-C:2004 5.6/A) No identifier in one name space should have the same spelling as an identifier in another name space, with the exception of structure member and union member names ("Pin")
+#1395-D (MISRA-C:2004 10.3/R) The value of a complex expression of integer type shall only be cast to a type of the same signedness that is no wider than the underlying type of the expression
+#1395-D (MISRA-C:2004 10.3/R) The value of a complex expression of integer type shall only be cast to a type of the same signedness that is no wider than the underlying type of the expression
+#1394-D (MISRA-C:2004 10.2/R) The value of an expression of floating type shall not be implicitly converted to a different type if the expression is complex
+#1394-D (MISRA-C:2004 10.2/R) The value of an expression of floating type shall not be implicitly converted to a different type if the expression is complex
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "wTimer3_B_IRQ_Handler_Callback")
+#1394-D (MISRA-C:2004 10.2/R) The value of an expression of floating type shall not be implicitly converted to a different type if the expression is complex
+#1394-D (MISRA-C:2004 10.2/R) The value of an expression of floating type shall not be implicitly converted to a different type if it is not a conversion to a wider floating type
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+#1394-D (MISRA-C:2004 10.2/R) The value of an expression of floating type shall not be implicitly converted to a different type if the expression is complex
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1464-D (MISRA-C:2004 10.6/R) A "U" suffix shall be applied to all constants of unsigned type
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1464-D (MISRA-C:2004 10.6/R) A "U" suffix shall be applied to all constants of unsigned type
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1464-D (MISRA-C:2004 10.6/R) A "U" suffix shall be applied to all constants of unsigned type
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+#1501-D (MISRA-C:2004 14.10/R) All if ... else if constructs shall be terminated with an else clause
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1497-D (MISRA-C:2004 5.7/A) No identifier name should be reused ("Init")
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+#1499-D (MISRA-C:2004 8.8/R) An external object or function shall be declared in one and only one file
+#1499-D (MISRA-C:2004 8.8/R) An external object or function shall be declared in one and only one file
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "Timer2_A_IRQ_Handler_Callback")
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1469-D (MISRA-C:2004 14.8/R) The statement forming the body of a switch, while, do ... while or for statement shall be a compound statement
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1497-D (MISRA-C:2004 5.7/A) No identifier name should be reused ("Init")
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1499-D (MISRA-C:2004 8.8/R) An external object or function shall be declared in one and only one file
+#1499-D (MISRA-C:2004 8.8/R) An external object or function shall be declared in one and only one file
+#1437-D (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("time")
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "GPIOF_IRQ_Handler_Callback")
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1484-D (MISRA-C:2004 6.1/R) The plain char type shall be used only for the storage and use of character values
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1484-D (MISRA-C:2004 6.1/R) The plain char type shall be used only for the storage and use of character values
+#1485-D (MISRA-C:2004 6.2/R) signed and unsigned char type shall be used only for the storage and use of numeric values
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1484-D (MISRA-C:2004 6.1/R) The plain char type shall be used only for the storage and use of character values
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1484-D (MISRA-C:2004 6.1/R) The plain char type shall be used only for the storage and use of character values
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1484-D (MISRA-C:2004 6.1/R) The plain char type shall be used only for the storage and use of character values
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1484-D (MISRA-C:2004 6.1/R) The plain char type shall be used only for the storage and use of character values
+#1485-D (MISRA-C:2004 6.2/R) signed and unsigned char type shall be used only for the storage and use of numeric values
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1484-D (MISRA-C:2004 6.1/R) The plain char type shall be used only for the storage and use of character values
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1484-D (MISRA-C:2004 6.1/R) The plain char type shall be used only for the storage and use of character values
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1484-D (MISRA-C:2004 6.1/R) The plain char type shall be used only for the storage and use of character values
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1484-D (MISRA-C:2004 6.1/R) The plain char type shall be used only for the storage and use of character values
+#1485-D (MISRA-C:2004 6.2/R) signed and unsigned char type shall be used only for the storage and use of numeric values
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1484-D (MISRA-C:2004 6.1/R) The plain char type shall be used only for the storage and use of character values
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1484-D (MISRA-C:2004 6.1/R) The plain char type shall be used only for the storage and use of character values
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1484-D (MISRA-C:2004 6.1/R) The plain char type shall be used only for the storage and use of character values
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1484-D (MISRA-C:2004 6.1/R) The plain char type shall be used only for the storage and use of character values
+#1485-D (MISRA-C:2004 6.2/R) signed and unsigned char type shall be used only for the storage and use of numeric values
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1484-D (MISRA-C:2004 6.1/R) The plain char type shall be used only for the storage and use of character values
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1484-D (MISRA-C:2004 6.1/R) The plain char type shall be used only for the storage and use of character values
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1496-D (MISRA-C:2004 5.6/A) No identifier in one name space should have the same spelling as an identifier in another name space, with the exception of structure member and union member names ("Pin")
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1496-D (MISRA-C:2004 5.6/A) No identifier in one name space should have the same spelling as an identifier in another name space, with the exception of structure member and union member names ("Pin")
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+#1476-D (MISRA-C:2004 17.4/R) Array indexing shall be the only allowed form of pointer arithmetic
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1476-D (MISRA-C:2004 17.4/R) Array indexing shall be the only allowed form of pointer arithmetic
+#1460-D (MISRA-C:2004 16.7/A) A pointer parameter in a function prototype should be declared as pointer to const if the pointer is not used to modify the addressed object ("str: const u8 *")
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1405-D (MISRA-C:2004 12.5/R) The operands of a logical && or || shall be primary-expressions
+#1459-D (MISRA-C:2004 12.1/A) Limited dependence should be placed on C's operator precedence rules in expressions
+#1483-D (MISRA-C:2004 12.6/A) The operands of logical operators (&&, || and !) should be effectively Boolean
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1405-D (MISRA-C:2004 12.5/R) The operands of a logical && or || shall be primary-expressions
+#1459-D (MISRA-C:2004 12.1/A) Limited dependence should be placed on C's operator precedence rules in expressions
+#1483-D (MISRA-C:2004 12.6/A) The operands of logical operators (&&, || and !) should be effectively Boolean
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+#1483-D (MISRA-C:2004 12.6/A) The operands of logical operators (&&, || and !) should be effectively Boolean
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+#1397-D (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+#1397-D (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+#1397-D (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+#1397-D (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+#1397-D (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+#1460-D (MISRA-C:2004 16.7/A) A pointer parameter in a function prototype should be declared as pointer to const if the pointer is not used to modify the addressed object ("GPIO_Init: const GPIO_InitTypeDef *")
+#1469-D (MISRA-C:2004 14.8/R) The statement forming the body of a switch, while, do ... while or for statement shall be a compound statement
+#1469-D (MISRA-C:2004 14.8/R) The statement forming the body of a switch, while, do ... while or for statement shall be a compound statement
+#1501-D (MISRA-C:2004 14.10/R) All if ... else if constructs shall be terminated with an else clause
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1496-D (MISRA-C:2004 5.6/A) No identifier in one name space should have the same spelling as an identifier in another name space, with the exception of structure member and union member names ("Pin")
+#1473-D (MISRA-C:2004 16.4/R) The identifiers used in the declaration and definition of a function shall be identical
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+#1496-D (MISRA-C:2004 5.6/A) No identifier in one name space should have the same spelling as an identifier in another name space, with the exception of structure member and union member names ("Pin")
+#1473-D (MISRA-C:2004 16.4/R) The identifiers used in the declaration and definition of a function shall be identical
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a return expression
+#1496-D (MISRA-C:2004 5.6/A) No identifier in one name space should have the same spelling as an identifier in another name space, with the exception of structure member and union member names ("GPIO_Init")
+#1496-D (MISRA-C:2004 5.6/A) No identifier in one name space should have the same spelling as an identifier in another name space, with the exception of structure member and union member names ("Pin")
+#1496-D (MISRA-C:2004 5.6/A) No identifier in one name space should have the same spelling as an identifier in another name space, with the exception of structure member and union member names ("Mode")
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+#1397-D (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+#1397-D (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+#1397-D (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+#1397-D (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+#1483-D (MISRA-C:2004 12.6/A) The operands of logical operators (&&, || and !) should be effectively Boolean
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+#1459-D (MISRA-C:2004 12.1/A) Limited dependence should be placed on C's operator precedence rules in expressions
+#1483-D (MISRA-C:2004 12.6/A) Expressions that are effectively Boolean should not be used as operands to operators other than (&&, ||, !, =, ==, != and ?:)
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+#1483-D (MISRA-C:2004 12.6/A) The operands of logical operators (&&, || and !) should be effectively Boolean
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+#1460-D (MISRA-C:2004 16.7/A) A pointer parameter in a function prototype should be declared as pointer to const if the pointer is not used to modify the addressed object ("GPIO_Init: const GPIO_Init_InterruptTypeDef *")
+#1496-D (MISRA-C:2004 5.6/A) No identifier in one name space should have the same spelling as an identifier in another name space, with the exception of structure member and union member names ("Pin")
+#1496-D (MISRA-C:2004 5.6/A) No identifier in one name space should have the same spelling as an identifier in another name space, with the exception of structure member and union member names ("Pin")
+#1496-D (MISRA-C:2004 5.6/A) No identifier in one name space should have the same spelling as an identifier in another name space, with the exception of structure member and union member names ("Pin")
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1496-D (MISRA-C:2004 5.6/A) No identifier in one name space should have the same spelling as an identifier in another name space, with the exception of structure member and union member names ("Pin")
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1473-D (MISRA-C:2004 16.4/R) The identifiers used in the declaration and definition of a function shall be identical
+#1469-D (MISRA-C:2004 14.8/R) The statement forming the body of a switch, while, do ... while or for statement shall be a compound statement
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1472-D (MISRA-C:2004 16.3/R) Identifiers shall be given for all of the parameters in a function prototype declaration
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+#1459-D (MISRA-C:2004 12.1/A) Limited dependence should be placed on C's operator precedence rules in expressions
+#1397-D (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+#1459-D (MISRA-C:2004 12.1/A) Limited dependence should be placed on C's operator precedence rules in expressions
+#1397-D (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+#1459-D (MISRA-C:2004 12.1/A) Limited dependence should be placed on C's operator precedence rules in expressions
+#1397-D (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+#1407-D (MISRA-C:2004 12.8/R) The right-hand operand of a shift operator shall lie between zero and one less than the width in bits of the underlying type of the left-hand operand
+#1407-D (MISRA-C:2004 12.8/R) The right-hand operand of a shift operator shall lie between zero and one less than the width in bits of the underlying type of the left-hand operand
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+#1459-D (MISRA-C:2004 12.1/A) Limited dependence should be placed on C's operator precedence rules in expressions
+#1397-D (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1460-D (MISRA-C:2004 16.7/A) A pointer parameter in a function prototype should be declared as pointer to const if the pointer is not used to modify the addressed object ("Timer_Init: const Timer_InitTypeDef *")
+#1471-D (MISRA-C:2004 15.3/R) The final clause of a switch statement shall be the default clause
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+#1459-D (MISRA-C:2004 12.1/A) Limited dependence should be placed on C's operator precedence rules in expressions
+#1397-D (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand
+#1407-D (MISRA-C:2004 12.8/R) The right-hand operand of a shift operator shall lie between zero and one less than the width in bits of the underlying type of the left-hand operand
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+#1459-D (MISRA-C:2004 12.1/A) Limited dependence should be placed on C's operator precedence rules in expressions
+#1397-D (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1407-D (MISRA-C:2004 12.8/R) The right-hand operand of a shift operator shall lie between zero and one less than the width in bits of the underlying type of the left-hand operand
+#1407-D (MISRA-C:2004 12.8/R) The right-hand operand of a shift operator shall lie between zero and one less than the width in bits of the underlying type of the left-hand operand
+#1407-D (MISRA-C:2004 12.8/R) The right-hand operand of a shift operator shall lie between zero and one less than the width in bits of the underlying type of the left-hand operand
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+#1459-D (MISRA-C:2004 12.1/A) Limited dependence should be placed on C's operator precedence rules in expressions
+#1397-D (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand
+#1407-D (MISRA-C:2004 12.8/R) The right-hand operand of a shift operator shall lie between zero and one less than the width in bits of the underlying type of the left-hand operand
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+#1459-D (MISRA-C:2004 12.1/A) Limited dependence should be placed on C's operator precedence rules in expressions
+#1397-D (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand
+#1460-D (MISRA-C:2004 16.7/A) A pointer parameter in a function prototype should be declared as pointer to const if the pointer is not used to modify the addressed object ("Timer_Int: const Timer_Init_InterruptTypedef *")
+#1496-D (MISRA-C:2004 5.6/A) No identifier in one name space should have the same spelling as an identifier in another name space, with the exception of structure member and union member names ("Timer")
+#1496-D (MISRA-C:2004 5.6/A) No identifier in one name space should have the same spelling as an identifier in another name space, with the exception of structure member and union member names ("Match")
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1496-D (MISRA-C:2004 5.6/A) No identifier in one name space should have the same spelling as an identifier in another name space, with the exception of structure member and union member names ("Timer")
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a return expression
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a return expression
+#1416-D (MISRA-C:2004 15.2/R) An unconditional break statement shall terminate every non-empty switch clause
+#1416-D (MISRA-C:2004 15.2/R) An unconditional break statement shall terminate every non-empty switch clause
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a return expression
+#1460-D (MISRA-C:2004 16.7/A) A pointer parameter in a function prototype should be declared as pointer to const if the pointer is not used to modify the addressed object ("Timerx: const Timer_RegDef_t *")
+#1468-D (MISRA-C:2004 14.7/R) A function shall have a single point of exit at the end of the function
+#1496-D (MISRA-C:2004 5.6/A) No identifier in one name space should have the same spelling as an identifier in another name space, with the exception of structure member and union member names ("Timer")
+#1496-D (MISRA-C:2004 5.6/A) No identifier in one name space should have the same spelling as an identifier in another name space, with the exception of structure member and union member names ("Load")
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1496-D (MISRA-C:2004 5.6/A) No identifier in one name space should have the same spelling as an identifier in another name space, with the exception of structure member and union member names ("Timer")
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a return expression
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a return expression
+#1416-D (MISRA-C:2004 15.2/R) An unconditional break statement shall terminate every non-empty switch clause
+#1416-D (MISRA-C:2004 15.2/R) An unconditional break statement shall terminate every non-empty switch clause
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a return expression
+#1460-D (MISRA-C:2004 16.7/A) A pointer parameter in a function prototype should be declared as pointer to const if the pointer is not used to modify the addressed object ("Timerx: const Timer_RegDef_t *")
+#1468-D (MISRA-C:2004 14.7/R) A function shall have a single point of exit at the end of the function
+#1496-D (MISRA-C:2004 5.6/A) No identifier in one name space should have the same spelling as an identifier in another name space, with the exception of structure member and union member names ("Timer")
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1459-D (MISRA-C:2004 12.1/A) Limited dependence should be placed on C's operator precedence rules in expressions
+#1497-D (MISRA-C:2004 5.7/A) No identifier name should be reused ("Trigger")
+#1496-D (MISRA-C:2004 5.6/A) No identifier in one name space should have the same spelling as an identifier in another name space, with the exception of structure member and union member names ("Mode")
+#1497-D (MISRA-C:2004 5.7/A) No identifier name should be reused ("Timer")
+#1497-D (MISRA-C:2004 5.7/A) No identifier name should be reused ("PWM")
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1496-D (MISRA-C:2004 5.6/A) No identifier in one name space should have the same spelling as an identifier in another name space, with the exception of structure member and union member names ("Timer_Init")
+#1496-D (MISRA-C:2004 5.6/A) No identifier in one name space should have the same spelling as an identifier in another name space, with the exception of structure member and union member names ("Timer")
+#1496-D (MISRA-C:2004 5.6/A) No identifier in one name space should have the same spelling as an identifier in another name space, with the exception of structure member and union member names ("Match")
+#1496-D (MISRA-C:2004 5.6/A) No identifier in one name space should have the same spelling as an identifier in another name space, with the exception of structure member and union member names ("Timer")
+#1496-D (MISRA-C:2004 5.6/A) No identifier in one name space should have the same spelling as an identifier in another name space, with the exception of structure member and union member names ("Timer")
+#1496-D (MISRA-C:2004 5.6/A) No identifier in one name space should have the same spelling as an identifier in another name space, with the exception of structure member and union member names ("Load")
+#1496-D (MISRA-C:2004 5.6/A) No identifier in one name space should have the same spelling as an identifier in another name space, with the exception of structure member and union member names ("Timer")
+#1496-D (MISRA-C:2004 5.6/A) No identifier in one name space should have the same spelling as an identifier in another name space, with the exception of structure member and union member names ("Timer")
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1469-D (MISRA-C:2004 14.8/R) The statement forming the body of a switch, while, do ... while or for statement shall be a compound statement
+#1497-D (MISRA-C:2004 5.7/A) No identifier name should be reused ("i")
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1469-D (MISRA-C:2004 14.8/R) The statement forming the body of a switch, while, do ... while or for statement shall be a compound statement
+#1497-D (MISRA-C:2004 5.7/A) No identifier name should be reused ("RIS")
+#1497-D (MISRA-C:2004 5.7/A) No identifier name should be reused ("Reserved")
+#1497-D (MISRA-C:2004 5.7/A) No identifier name should be reused ("Reserved")
+#1497-D (MISRA-C:2004 5.7/A) No identifier name should be reused ("RIS")
+#1497-D (MISRA-C:2004 5.7/A) No identifier name should be reused ("MIS")
+#1497-D (MISRA-C:2004 5.7/A) No identifier name should be reused ("ICR")
+#1497-D (MISRA-C:2004 5.7/A) No identifier name should be reused ("Reserved2")
+#1497-D (MISRA-C:2004 5.7/A) No identifier name should be reused ("RIS")
+#1497-D (MISRA-C:2004 5.7/A) No identifier name should be reused ("IM")
+#1497-D (MISRA-C:2004 5.7/A) No identifier name should be reused ("Reserved")
+#1497-D (MISRA-C:2004 5.7/A) No identifier name should be reused ("CTL")
+#1497-D (MISRA-C:2004 5.7/A) No identifier name should be reused ("Reserved2")
+#1497-D (MISRA-C:2004 5.7/A) No identifier name should be reused ("Reserved3")
+#1497-D (MISRA-C:2004 5.7/A) No identifier name should be reused ("Reserved4")
+#1497-D (MISRA-C:2004 5.7/A) No identifier name should be reused ("Reserved5")
+#1497-D (MISRA-C:2004 5.7/A) No identifier name should be reused ("Reserved6")
+#1497-D (MISRA-C:2004 5.7/A) No identifier name should be reused ("Reserved7")
+#1497-D (MISRA-C:2004 5.7/A) No identifier name should be reused ("Reserved8")
+#1497-D (MISRA-C:2004 5.7/A) No identifier name should be reused ("Reserved9")
+#1497-D (MISRA-C:2004 5.7/A) No identifier name should be reused ("PP")
+#1497-D (MISRA-C:2004 5.7/A) No identifier name should be reused ("Reserved")
+#1497-D (MISRA-C:2004 5.7/A) No identifier name should be reused ("Reserved2")
+#1497-D (MISRA-C:2004 5.7/A) No identifier name should be reused ("Reserved3")
+#1497-D (MISRA-C:2004 5.7/A) No identifier name should be reused ("Reserved4")
+#1497-D (MISRA-C:2004 5.7/A) No identifier name should be reused ("Reserved5")
+#1497-D (MISRA-C:2004 5.7/A) No identifier name should be reused ("Reserved6")
+#1497-D (MISRA-C:2004 5.7/A) No identifier name should be reused ("Reserved7")
+#1497-D (MISRA-C:2004 5.7/A) No identifier name should be reused ("Reserved8")
+#1497-D (MISRA-C:2004 5.7/A) No identifier name should be reused ("Reserved9")
+#1497-D (MISRA-C:2004 5.7/A) No identifier name should be reused ("Reserved10")
+#1497-D (MISRA-C:2004 5.7/A) No identifier name should be reused ("Reserved11")
+#1497-D (MISRA-C:2004 5.7/A) No identifier name should be reused ("Reserved12")
+#1497-D (MISRA-C:2004 5.7/A) No identifier name should be reused ("Reserved13")
+#1497-D (MISRA-C:2004 5.7/A) No identifier name should be reused ("Reserved14")
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+#1421-D (MISRA-C:2004 16.8/R) All exit paths from a function with non-void return type shall have an explicit return statement with an expression (function "main")
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "ResetISR")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "NmiSR")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "FaultISR")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "SYSTick_Handler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "GPIOA_IRQ_Handler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "GPIOB_IRQ_Handler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "GPIOC_IRQ_Handler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "GPIOD_IRQ_Handler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "GPIOE_IRQ_Handler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "Timer0_A_IRQ_Handler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "Timer0_B_IRQ_Handler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "Timer1_A_IRQ_Handler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "Timer1_B_IRQ_Handler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "Timer2_A_IRQ_Handler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "Timer2_B_IRQ_Handler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "GPIOF_IRQ_Handler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "Timer3_A_IRQ_Handler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "Timer3_B_IRQ_Handler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "Timer4_A_IRQ_Handler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "Timer4_B_IRQ_Handler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "Timer5_A_IRQ_Handler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "Timer5_B_IRQ_Handler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "wTimer0_A_IRQ_Handler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "wTimer0_B_IRQ_Handler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "wTimer1_A_IRQ_Handler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "wTimer1_B_IRQ_Handler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "wTimer2_A_IRQ_Handler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "wTimer2_B_IRQ_Handler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "wTimer3_A_IRQ_Handler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "wTimer3_B_IRQ_Handler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "wTimer4_A_IRQ_Handler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "wTimer4_B_IRQ_Handler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "wTimer5_A_IRQ_Handler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "wTimer5_B_IRQ_Handler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
